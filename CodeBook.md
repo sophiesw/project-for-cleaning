@@ -1,6 +1,6 @@
 CodeBook
 
-"activity_type" 
+"activity_type"
 Description: The activities that each person performed when wearing a smartphone on the waist.
 Value: walking, walking_upstairs, walking_downstairs, sitting, standing, laying
 
